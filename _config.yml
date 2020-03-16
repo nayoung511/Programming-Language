@@ -12,8 +12,9 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		           "Portfolio Jekyll Theme"
-description:	       "Powered by Jekyll and GitHub Pages"
-author:              "Paul Le"
+title:		           "All the Basic of Nayoung"
+subtitle:            "Journey to the Ultimate Programmer"
+description:	       "Slowly takes a step to Programming"
+author:              "Nayoung Bae"
 baseurl : /
 url : https://nayoung511.github.io/
